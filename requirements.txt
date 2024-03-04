@@ -1,0 +1,8 @@
+beautifulsoup4
+ipython
+numpy
+pyaudio
+pyjokes
+pyttsx3
+speechrecognition
+tensorflow
